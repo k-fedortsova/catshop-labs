@@ -1,0 +1,1 @@
+ghcr.io/k-fedortsova/catshop-lab-02@sha256:cb9b212bedc21e840476d433bc35ca9c033e505cae7ce24dfbcbd112a1feed49
